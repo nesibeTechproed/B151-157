@@ -4,4 +4,5 @@ remoteda kodlar ekledim
 bazı kodlar yazdım.
 
 burada çakışma olacak
+nesibe branchi kod yazdı.
 
